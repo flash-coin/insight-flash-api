@@ -1,0 +1,40 @@
+[
+  {
+    "poolName": "AntMiner",
+    "url": "https://bitmaintech.com/",
+    "searchStrings": [
+      "AntPool"
+    ]
+  },
+  {
+    "poolName": "Discus Fish",
+    "url": "http://f2pool.com/",
+    "searchStrings": [
+      "七彩神仙鱼",
+      "Made in China",
+      "Mined by user",
+      "Mined by gumi"
+    ]
+  },
+  {
+    "poolName":"Batpool",
+    "url":"https://batpool.com",
+    "searchStrings":[
+      "BATPOOL"
+    ]
+  },
+  {
+    "poolName":"BW",
+    "url":"https://www.bw.com",
+    "searchStrings":[
+      "/BW/"
+    ]
+  },
+  {
+    "poolName":"LTC.TOP",
+    "url":"http://",
+    "searchStrings":[
+      "LTC.TOP"
+    ]
+  }
+]
