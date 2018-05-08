@@ -1002,7 +1002,7 @@ describe('Transactions', function() {
         'valueOut': 12.5002,
         'vout': [
           {
-            'n4eY3qiP9pi32MWC6FcJFHciSsfNiYFYgR': 12.5002 * 1e8
+            'n4eY3qiP9pi32MWC6FcJFHciSsfNiYFYgR': 12.5002 * 1e10
           }
         ],
         'isRBF': false

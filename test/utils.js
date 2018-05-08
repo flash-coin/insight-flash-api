@@ -13,9 +13,9 @@ describe('Utils', function() {
             estimateFee: function(blocks, callback) {
               switch(blocks) {
               case 1:
-                return callback(null, 1000 / 1e8);
+                return callback(null, 1000 / 1e10);
               case 3:
-                return callback(null, 3000 / 1e8);
+                return callback(null, 3000 / 1e10);
               }
             }
           }
