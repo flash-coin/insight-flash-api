@@ -67,7 +67,7 @@
     "flashcore-message": "flash-coin/flashcore-message",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
-    "lodash": "~>4.17.5",
+    "lodash": "~>4.17.13",
     "lru-cache": "^4.0.1",
     "morgan": "^1.7.0",
     "request": "^2.81.0",
