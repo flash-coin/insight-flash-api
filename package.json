@@ -63,7 +63,7 @@
   "main": "lib",
   "bitcoreNode": "lib",
   "dependencies": {
-    "async": "*",
+    "async": "2.6.0",
     "flashcore-message": "flash-coin/flashcore-message",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
